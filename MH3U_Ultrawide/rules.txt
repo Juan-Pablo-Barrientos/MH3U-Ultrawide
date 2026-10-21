@@ -2,7 +2,7 @@
 titleIds = 0005000010118300
 name = Ultrawide
 path = "Monster Hunter 3 Ultimate/Mods/Ultrawide"
-description = Renders the game at an ultrawide resolution and widens the camera so you see more to the sides instead of a stretched picture. Made for the US v32 update. Don't use it together with the "Graphics options" resolution pack. Render target list and blur shader from the Graphics pack by Skalfate and FrankyBuster.
+description = Renders the game at an ultrawide resolution and widens the camera so you see more to the sides instead of a stretched picture. The HUD keeps its shape in the middle 16:9 of the screen. Made for the US v32 update. Don't use it together with the "Graphics options" resolution pack. Render target list and blur shader from the Graphics pack by Skalfate and FrankyBuster.
 version = 7
 
 
